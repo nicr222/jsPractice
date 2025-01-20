@@ -1,3 +1,4 @@
+/*
 let js = 'amazing';
 console.log(40 + 8 + 23 - 10); 
 
@@ -8,7 +9,6 @@ let firstName = 'Matilda';
 let first = 'Jonas';
 let firstNamePerson = 'Nic';
 let first_name = "Nic";
-
 
 console.log(firstName);
 console.log(first);
@@ -26,3 +26,34 @@ let myFirstJob = 'Programmer';
 let myCurrentJob = 'Teacher';
 
 console.log(myFirstJob);
+*/
+
+true;
+let javascriptIsFun = true;
+
+
+console.log(javascriptIsFun);
+
+// console.log(typeof true);
+console.log(typeof javascriptIsFun);
+// console.log(typeof 23);
+// console.log(typeof 'nic');
+
+javascriptIsFun = 'YES!';
+console.log(typeof javascriptIsFun);
+
+let year;
+console.log(year);
+console.log(typeof year);
+
+year = 1991;
+console.log(typeof year);
+
+console.log(typeof null);
+
+let age = 30;
+console.log(age);
+
+age = 31;
+
+console.log(age);
